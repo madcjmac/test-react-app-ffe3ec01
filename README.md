@@ -1,2 +1,10 @@
-# test-react-app-ffe3ec01
-A test app created by the backend testing suite
+# Test React App
+
+Built with AI assistance using Claude AI.
+
+## Getting Started
+
+```bash
+npm install
+npm start
+```
